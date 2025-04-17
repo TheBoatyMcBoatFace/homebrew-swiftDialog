@@ -1,0 +1,15 @@
+# .github/config.yml
+
+contact_links:
+  - name: 🧾 swiftDialog Documentation
+    url: https://github.com/swiftDialog/swiftDialog/wiki
+    about: Please read the official documentation before opening an issue.
+
+  - name: 🐞 Report a Bug in swiftDialog
+    url: https://github.com/swiftDialog/swiftDialog/issues
+    about: If the problem is with the app itself, please report it directly to the upstream project.
+
+  - name: 💬 Ask a Question or Get Help
+    url: https://github.com/swiftDialog/swiftDialog/discussions
+    about: General questions, feature discussions, or usage support belong in the upstream Discussions page.
+
