@@ -9,7 +9,7 @@ This Homebrew tap provides an **unmodified**, **official**, signed installer for
 > [!NOTE]
 > 🛠 Maintained by [@TheBoatyMcBoatFace](https://github.com/TheBoatyMcBoatFace) to make `swiftDialog` installable via Homebrew.
 
-<img width="500" alt="Screenshots of various configuration options for swiftDialog" src="https://github.com/TheBoatyMcBoatFace/homebrew-swiftDialog/assets/swiftDialog_showcase.gif">
+<img width="500" alt="Screenshots of various configuration options for swiftDialog" src="https://raw.githubusercontent.com/TheBoatyMcBoatFace/homebrew-swiftdialog/main/assets/swiftDialog_showcase.gif">
 
 ## 🔗 Official swiftDialog Info
 
