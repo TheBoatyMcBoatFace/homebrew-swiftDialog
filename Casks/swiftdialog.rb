@@ -1,4 +1,3 @@
-# Casks/swiftdialog.rb
 cask "swiftdialog" do
   version "2.5.5"
   sha256 "9841079f89b839b0323a3f9a0a99d1627371ab3a3725be94df7796024ad72f95"
