@@ -1,14 +1,14 @@
 cask "swiftdialog" do
-  version "3.0.0"
-  sha256 "a0ea899a8b8ab10b63df47d70ca6daf9983a4a976819bdce60cb44301105c900"
+  version "3.0.1"
+  sha256 "8977a08d706a4615b6c48b6b47badf0fd61cd6c9904c7a4712aa4431c612f385"
 
-  url "https://github.com/swiftDialog/swiftDialog/releases/download/v3.0.0/dialog-3.0.0-4952.pkg",
+  url "https://github.com/swiftDialog/swiftDialog/releases/download/v3.0.1/dialog-3.0.1-4955.pkg",
       verified: "github.com/swiftDialog/swiftDialog/"
   name "swiftDialog"
   desc "Unmodified, official Swift-based macOS dialog tool. Added to Homebrew for convenience."
   homepage "https://github.com/swiftDialog/swiftDialog"
 
-  pkg "dialog-3.0.0-4952.pkg"
+  pkg "dialog-3.0.1-4955.pkg"
 
   uninstall pkgutil: "au.com.swiftDialog"
 
